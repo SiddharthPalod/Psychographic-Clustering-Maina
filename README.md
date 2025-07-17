@@ -73,7 +73,7 @@ This project performs deep **text and behavioral analysis** on user reviews from
 ## 📈 Dataset Size
 
 - Initial run: **65,000 reviews**
-- Expanded analysis: **160,000 reviews**
+- Expanded analysis: **200,000 reviews**
 
 ---
 
