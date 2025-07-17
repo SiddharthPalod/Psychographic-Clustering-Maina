@@ -1,6 +1,6 @@
 # 🧠 Psychographic Analysis of Mental Health App Reviews for Maina
 
-This project performs deep **text and behavioral analysis** on user reviews from **mental health applications** in India. It uses NLP, sentiment analysis, topic modeling, and behavioral clustering to build **psychographic personas** based on large-scale review data.
+This project performs deep **text and behavioral analysis** on user reviews from **mental health applications** in India. It uses NLP, sentiment analysis, topic modeling, and behavioral clustering (6 clusters) to build **psychographic personas** based on large-scale review data.
 
 ---
 
@@ -57,16 +57,16 @@ This project performs deep **text and behavioral analysis** on user reviews from
 
 ---
 
-## 🔍 Sample Topics (from LDA on 65,000 Reviews)
+## 🔍 Sample Topics (from LDA on 200,000 Reviews)
 
 | Topic | Keywords |
 |-------|----------|
-| **0** | anxiety, wysa, feel, lot, thank, love, helped, really, help, app |
-| **1** | money, great, therapy, pay, help, therapist, health, mental, free, app |
-| **2** | im, like, message, didnt, people, dont, chat, time, app, listener |
-| **3** | talking, good, ai, really, wysa, app, help, talk, feel, like |
-| **4** | people, love, nice, easy, work, good, meditation, use, great, app |
-| **5** | day, ive, im, far, good, thought, help, really, helpful, app |
+| **0** | Track, Really, Time, Easy, Mood, Great, Use, Health, Mental, App |
+| **1** | Headspace, Sleep, Love, Help, Day, Life, Really, Great, Meditation, App |
+| **2** | Don’t, Like, Helpful, Great, Help, Therapist, Need, Good, People, App |
+| **3** | Wysa, Like, Better, Amazing, Love, Helped, Feel, Help, Really, App |
+| **4** | Little, Like, Care, Finch, Really, Day, Cute, Help, Love, Appp |
+| **5** | Use, Money, Work, Time, Pay, Don’t, I’m, Subscription, Free, App |
 
 ---
 
@@ -99,9 +99,6 @@ This project performs deep **text and behavioral analysis** on user reviews from
 ---
 
 ## 👤 Author
-
-**Siddharth Palod**  
-Focus: NLP, Behavioral Analytics, and Mental Health Tech
-
+Siddharth Palod
 ---
 
